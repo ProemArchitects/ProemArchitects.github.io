@@ -21,7 +21,6 @@
     }
 /*        padding-top: 15px;*/
 
-        .project-image-header, {  font-size: 16px; }
 
     .menu p {
         margin: 0;
@@ -50,8 +49,11 @@
         max-width: 1440px;
     }
 
-    p.project-image-header {
+    h3.project-image-header {
         text-align: center;
+        font-size: 16px;
+        margin-left: auto !important; 
+        margin-right: auto !important; 
     }
 
     .project-image {
@@ -62,14 +64,13 @@
         background-repeat: no-repeat;
     }
 
-.pm-container p {
+.pm-container h3.project-image-header {
     color: white;
     margin-left: 0px !important;
     margin-right: 0px !important;
-    font-size: 1.2rem;
 
 }
-.pm-container:hover p {
+.pm-container:hover h3.project-image-header {
     display: block;
     color: black;
     text-decoration: none;

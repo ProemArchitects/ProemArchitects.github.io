@@ -43,14 +43,14 @@
 
 	/* project custom padding */
 	.project1, .project3, .project5 , .project7, .project9 {   
-		margin-left: 0px !important;
-		margin-right: 18% !important;
+		margin-left: 9% !important;
+		margin-right: 9% !important;
 	}
 
 
 	.project2, .project4, .project6, .project8 {   
-		margin-left: 18% !important;
-		margin-right: 0px !important;
+		margin-left: 9% !important;
+		margin-right: 9% !important;
 	}
 
 	.project1, .project3, .project5 , .project7, .project9, .project2, .project4, .project6, .project8 {   

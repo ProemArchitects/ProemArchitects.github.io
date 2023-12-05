@@ -50,8 +50,6 @@
     }
 /* ---  */
 
-
-
 .content-start p,  .content-start h1, .content-start h2, .content-start h3, .content-start div.language-plaintext  {
 
     @media (min-width: 992px) { margin-left: 27%; margin-right: 27%; }
