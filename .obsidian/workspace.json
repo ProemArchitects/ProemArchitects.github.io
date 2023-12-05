@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2b3bc0d98c0d9642",
+    "type": "split",
+    "children": [
+      {
+        "id": "350e2ed1762f8657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1148c4fa9fb578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "practice/philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c49c360c34672aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b8d4050609bac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2da29ddbe4229ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f560acb557e87edc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7630e6787dfbcfd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58693809f8830b40",
+    "type": "split",
+    "children": [
+      {
+        "id": "087151f3abadc83c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822ac36129c361ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "practice/philosophy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34155e4721574a32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "practice/philosophy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29658a01e8cbabdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2650391fadd96b22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "practice/philosophy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c1148c4fa9fb578",
+  "lastOpenFiles": [
+    "practice.md"
+  ]
+}

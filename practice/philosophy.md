@@ -4,6 +4,8 @@ title: Philosophy
 submenu: practice
 ---
 
+### Practice 
+
 At PROEM architects, we are driven by a humble approach to architecture that respects the land and embraces the essence of sustainability. Founded in 2015 by and Architect Ricardo Camacho and Architect Sarah Behbehani our small studio in Kuwait is dedicated to collaborating with others and creating meaningful architectural experiences.
 
 ### Collaborative Approach
