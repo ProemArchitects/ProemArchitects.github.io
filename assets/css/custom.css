@@ -8,6 +8,8 @@
 
     p, div.language-plaintext {
         font-size: 14px;
+        font-weight: 500;
+
     }
     a {
         color: #a94e36;
@@ -39,7 +41,7 @@
     .menu a:hover, .menu p:hover, .menu p.active {
         text-decoration: none;
         color: #a94e36;
-        font-weight: bold;
+        font-weight: bolder;
     }
 
 /* Body Section */
@@ -56,6 +58,8 @@
 
     h3.project-image-header, h3 {
         font-size: 16px;
+        font-weight: bolder;
+
     }
     h3.project-image-header {
         text-align: center;
