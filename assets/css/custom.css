@@ -39,13 +39,13 @@
     .menu a:hover, .menu p:hover, .menu p.active {
         text-decoration: none;
         color: #a94e36;
-        font-weight: 100;
+        font-weight: bold;
     }
 
 /* Body Section */
 
     body {
-        font-family: 'Avenir Medium', sans-serif;
+        font-family: 'Avenir', sans-serif;
         color: #a0a0a0;
         background-color: #FFFFFF;
     }
