@@ -1,0 +1,20 @@
+.header {
+  position: relative;
+  display: inline-block;
+  font-size: 1.4rem; assigned in the drafting 
+  line-height: 1;
+  color: #a94e36;
+  text-align: right;
+}
+
+.header::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+/*  right: -30px;*/
+  transform: translateY(-50%);
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: #a94e36;
+}

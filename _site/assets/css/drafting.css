@@ -1,0 +1,63 @@
+/* screen adjustment  */
+
+    /* Styles for large screens (lg) */
+    @media (min-width: 992px) {  
+        .project-image { height: 420px !important; }
+
+    }
+
+
+    /* Styles for medium-sized screens (md) */
+    @media (min-width: 768px) {  
+        .project-image { height: 420px !important; }
+        .menu p, .header, {  font-size: 1rem !important;  }
+        .project-image-header, {  font-size: 1rem !important;  }
+        .header:before {right: -30px}
+
+    }
+
+
+    /* Styles mobile screens ( ) */
+    @media ( min-width: 520px ) and (max-width: 768px) {  
+        .menu p, .header {  font-size: 1rem !important;  }
+        .project-image-header, {  font-size: 1rem !important;  }
+        .header:before {right: -25px}
+        .logo {  max-width: 235px;  }
+        .project-image { height: 380px !important; }
+
+
+    }
+    /* Styles mobile screens ( ) */
+    @media ( min-width: 400px ) and (max-width: 520px) {  
+        .menu p, .header {  font-size: 0.8rem !important;  }
+        .project-image-header, {  font-size: 0.8rem !important;  }
+        .header:before {right: -20px}
+        .logo {  max-width: 150px; }
+        .project-image { height: 280px !important; }
+
+
+    }
+
+    @media (max-width: 400px) {  
+        .menu p, .header {  font-size: 0.6rem !important;  }
+        .project-image-header, {  font-size: 0.6rem !important;  }
+        .header:before {right: -15px}
+        .logo {  max-width: 120px; }
+        .project-image { height: 230px !important; }
+
+        .content-start p img { max-height: 320px; }
+
+    }
+/* ---  */
+
+
+
+.content-start p,  .content-start h1, .content-start h2, .content-start h3, .content-start div.language-plaintext  {
+
+    @media (min-width: 992px) { margin-left: 27%; margin-right: 27%; }
+    @media (min-width: 768px) { margin-left: 17%; margin-right: 17%; }
+    @media ( min-width: 520px ) and (max-width: 768px) { margin-left: 7%; margin-right: 7%; }
+    @media ( min-width: 400px ) and (max-width: 520px) { margin-left: 7%; margin-right: 7%; }
+    @media (max-width: 400px) { margin-left: 7%; margin-right: 7%; }
+
+}
