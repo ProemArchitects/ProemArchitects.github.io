@@ -28,13 +28,19 @@
     <div id="navigation-content">
         <div  class="container-fluid px-5">
 
-
-
             <div class="row px-md-5 px-lg-5 py-5 ">
-                <div class="col-6">
+                <div class="col-4 ">
                     <a href="/"><img src="/img/proem_logo.png" alt="Proem Logo" class="img-fluid logo"> </a>
                 </div>
-                <div class="col-6 text-right menu">
+
+                <div class="col-4" style="text-align: center;">
+                    {% if page.submenu == "project" %} 
+                        <h3> {{ page.title }} </h1>
+                    {% else %}
+                    {% endif %}
+                </div>
+
+                <div class="col-4 text-right menu">
 
 
                 	{% if page.title == "Practice" %} 
@@ -61,11 +67,6 @@
                         <a href="/"><p >PROJECTS</p> </a>
                     {% endif %}
 
-<!--                     {% if page.submenu == "project" %} 
-                        <h1 class="header"> {{ page.title }} </h1>
-                    {% else %}  -->
-                        <!--  -->
-                    <!-- {% endif %} -->
 
 
                 </div>

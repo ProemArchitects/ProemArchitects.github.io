@@ -2,14 +2,14 @@
 	.project1 {    background-image: url('../../works/senac-school-of-hospitality/01.jpg');    }
 	.pm-container:hover .project1 {    background-image: url('../../works/senac-school-of-hospitality/02.jpg');    }
 
-	.project2 {    background-image: url('../../works/alt/two-alt.png');    }
-	.pm-container:hover .project2 {    background-image: url('../../img/hover.png');    }
+	.project2 {    background-image: url('../../works/fountain-square/01.jpg');    }
+	.pm-container:hover .project2 {    background-image: url('../../works/fountain-square/03.png');    }
 
-	.project3 {    background-image: url('../../works/alt/three-alt.png');    }
-	.pm-container:hover .project3 {    background-image: url('../../img/hover.png');    }
+	.project3 {    background-image: url('../../works/querteira-cultural-park/01.jpg');    }
+	.pm-container:hover .project3 {    background-image: url('../../works/querteira-cultural-park/six_00001.jpg');    }
 
-	.project4 {    background-image: url('../../works/four/praca_Cam01_GRD.jpg');    }
-	.pm-container:hover .project4 {    background-image: url('../../works/four/praca_Cam02_GRD.jpg');    }
+	.project4 {    background-image: url('../../works/alt/two-alt.png');    }
+	.pm-container:hover .project4 {    background-image: url('../../img/hover.png');    }
 
 	.project5 {    background-image: url('../../works/alt/five-alt.png');    }
 	.pm-container:hover .project5 {    background-image: url('../../img/hover.png');    }
