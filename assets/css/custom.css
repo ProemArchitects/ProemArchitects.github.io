@@ -1,6 +1,11 @@
 
 /* Header Section */
 
+  html {
+    scroll-behavior: smooth;
+  }
+
+
     p, div.language-plaintext {
         font-size: 14px;
     }

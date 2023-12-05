@@ -20,7 +20,9 @@ submenu: project
 
 ![Fountain Square](/works/fountain-square/09.jpg)
 
-# Fountain Square
+<br id="scr-to-here" />
+
+### Fountain Square
 
 	
 	Reguengo, Portugal 
