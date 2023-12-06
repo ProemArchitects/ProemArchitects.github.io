@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publications.md",
+                "file": "practice/publications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "publications.md",
+                "file": "practice/publications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "publications.md",
+                "file": "practice/publications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "publications.md"
+                "file": "practice/publications.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
+    "practice/philosophy.md",
+    "practice/team.md",
+    "practice/publications.md",
+    "practice/services.md",
+    "publications.md",
+    "practice.md",
     "works/querteira-cultural-park/six_00001.jpg",
     "works/querteira-cultural-park/six/six_00009.jpg",
     "works/querteira-cultural-park/six/six_00008.jpg",
@@ -158,7 +164,6 @@
     "works/querteira-cultural-park/six/six_00003.jpg",
     "works/querteira-cultural-park/six/six_00002.jpg",
     "works/querteira-cultural-park/six/six_00001.jpg",
-    "works/querteira-cultural-park/six/six.jpg",
     "works/querteira-cultural-park/six/quarteira_cultural_park.md",
     "works/querteira-cultural-park/six",
     "works/querteira-cultural-park",
@@ -174,8 +179,6 @@
     "works/alotaiba-museum",
     "works/alotaiba-museum.md",
     "assets/fonts/AvenirLTPro/demo.html",
-    "assets/fonts/AvenirLTPro/AvenirLTPro-Roman.woff2",
-    "practice/philosophy.md",
-    "practice.md"
+    "assets/fonts/AvenirLTPro/AvenirLTPro-Roman.woff2"
   ]
 }
