@@ -2,9 +2,6 @@
 layout: default
 title: Publications
 submenu: none
-tags:
-  - architecture
-  - architecturephotography
 ---
 
 

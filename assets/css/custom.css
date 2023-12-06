@@ -6,6 +6,10 @@
   }
 
 
+    hr {
+        width: 100%;
+    }
+
     p, div.language-plaintext {
         font-size: 14px;
         font-weight: 500;
