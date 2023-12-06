@@ -51,7 +51,7 @@
     }
 /* ---  */
 
-.content-start p,  .content-start h1, .content-start h2, .content-start h3, .content-start div.language-plaintext  {
+.content-start p,  .content-start h1, .content-start h2, .content-start h3, .content-start div.language-plaintext, hr  {
 
     @media (min-width: 992px) { margin-left: 27%; margin-right: 27%; }
     @media (min-width: 768px) { margin-left: 17%; margin-right: 17%; }
