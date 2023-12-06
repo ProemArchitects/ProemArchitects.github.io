@@ -11,11 +11,9 @@
             "id": "2c1148c4fa9fb578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "practice/publications.md",
-                "mode": "source",
-                "source": false
+                "file": "works/querteira-cultural-park/02.jpg"
               }
             }
           }
@@ -85,14 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/publications.md",
+                "file": "works/querteira-cultural-park/02.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/publications.md",
+                "file": "works/querteira-cultural-park/02.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/publications.md"
+                "file": "works/querteira-cultural-park/02.jpg"
               }
             }
           }
@@ -133,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,37 +145,51 @@
   },
   "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
-    "practice/philosophy.md",
-    "practice/team.md",
-    "practice/publications.md",
-    "practice/services.md",
-    "publications.md",
-    "practice.md",
-    "works/querteira-cultural-park/six_00001.jpg",
-    "works/querteira-cultural-park/six/six_00009.jpg",
-    "works/querteira-cultural-park/six/six_00008.jpg",
-    "works/querteira-cultural-park/six/six_00007.jpg",
-    "works/querteira-cultural-park/six/six_00006.jpg",
-    "works/querteira-cultural-park/six/six_00005.jpg",
-    "works/querteira-cultural-park/six/six_00004.jpg",
-    "works/querteira-cultural-park/six/six_00003.jpg",
-    "works/querteira-cultural-park/six/six_00002.jpg",
-    "works/querteira-cultural-park/six/six_00001.jpg",
-    "works/querteira-cultural-park/six/quarteira_cultural_park.md",
-    "works/querteira-cultural-park/six",
-    "works/querteira-cultural-park",
-    "works/querteira-cultural-park.md",
-    "works/house-yarmouk/ten/b_villas.md",
-    "works/house-yarmouk/ten",
-    "works/house-yarmouk",
-    "works/house-yarmouk.md",
-    "works/fountain-square/four",
-    "works/fountain-square/fountain-square.md",
-    "works/fountain-square/Archived",
-    "works/fountain-square",
-    "works/alotaiba-museum",
+    "works/Golpilheira Plaza/golpilheira_plaza.md",
+    "works/Golpilheira Plaza/five_two_00007.jpg",
+    "works/Golpilheira Plaza/five_two_00006.jpg",
+    "works/Golpilheira Plaza/five_two_00005.jpg",
+    "works/Golpilheira Plaza/five_two_00004.jpg",
+    "works/Golpilheira Plaza/five_two_00003.jpg",
+    "works/Golpilheira Plaza/five_two_00002.jpg",
+    "works/Golpilheira Plaza/five_two_00001.jpg",
+    "works/Golpilheira Plaza/five_one_00024.jpg",
+    "works/Golpilheira Plaza/five_one_00023.jpg",
+    "works/Golpilheira Plaza/five_one_00022.jpg",
+    "works/Golpilheira Plaza",
+    "works/B-Villas- Yarmouk/b_villas.md",
+    "works/B-Villas- Yarmouk",
+    "works/B-Villas/b_villas.md",
+    "works/B-Villas",
+    "works/ten/b_villas.md",
+    "works/ten",
+    "works/Greece_Thasoloniki/thessaloniki-international-fair.md",
+    "works/Greece_Thasoloniki",
+    "works/Berkely/le-berkeley.md",
+    "works/Berkely",
+    "works/Sahara Entrance/sahara_enterance.md",
+    "works/Sahara Entrance",
+    "works/Murouj_extenstion/RICARDO_CAMACHO_040618_0704.textClipping",
+    "works/N125A22_House/N125A22-House.md",
+    "works/N125A22_House",
+    "works/EN House/N125A22-House.md",
+    "works/EN House",
+    "works/Murouj_extenstion/murouj_extension.md",
+    "works/senac-school-of-hospitality/senac_school_of_hospitality.md",
+    "works/twelve/senac_school_of_hospitality.md",
+    "works/senac-school-of-hospitality/senac-school-of-hospitality.md",
+    "works/Quarteira/quinta_das_garridas.md",
+    "works/querteira-cultural-park/quinta_das_garridas.md",
+    "Title.md",
+    "works/Iran_Piano Tea Room /fountain-square.md",
+    "cafe1_cam1_Grd.jpg.md",
+    "works/Iran_Hotel Cafe/fountain-square.md",
+    "works/Iran_Auction Room and Gallery/fountain-square.md",
+    "works/alotaiba-museum/alotaiba-museum.md",
     "works/alotaiba-museum.md",
-    "assets/fonts/AvenirLTPro/demo.html",
-    "assets/fonts/AvenirLTPro/AvenirLTPro-Roman.woff2"
+    "works/senac-school-of-hospitality.md",
+    "works/01_Sahara Equestrian Club/sahara_equestrain_center.md",
+    "works/querteira-cultural-park.md",
+    "works/two/thessaloniki-international-fair.md"
   ]
 }

@@ -30,7 +30,7 @@ At Proem Architects, we approach each project with humility; letting the design 
 	PhD from Coimbra University  
 
 Graduate School of Design-Harvard University Cambridge, US; Universidade de Lisboa, Faculdade de Arquitectura, Lisbon, Portugal; Politecnico di Milano, Milan Italy;  
-He preformed in the role of project director and coordinator in large masterplan schemes for leasure and hospitality. On behalf of Promontorio and as Managing Partner for Kuwait, Ricardo was lead designer for the Fairmont Hotel in Theran, Taj Hotel in Mashhad, Campanile Hotel in Kuwait and AC Hotel in Porthmouth, NH, USA.
+Ricardo preformed in the role of project director and coordinator in large masterplan schemes for leisure and hospitality. On behalf of Promontorio and as Managing Partner for Kuwait, Ricardo was lead designer for the Fairmont Hotel in Theran, Taj Hotel in Mashhad, Campanile Hotel in Kuwait and AC Hotel in Porthmouth, NH, USA. In Addition Ricardo is the Lead Architect in all our local and international projects which include both residential and commercial projects in Kuwait, KSA and Portugal. 
 
 ## Sarah Behbehani, BArch UM 
 
@@ -38,7 +38,7 @@ He preformed in the role of project director and coordinator in large masterplan
 	Concept Development, Project Coordination, Interior Design 
 	BArch University of Miami
 
-Working within the team since 2013, and since a registered Architect at the Kuwait Engineers Society and Kuwait Municipality, she developed a large experience in the MENA region and UK in F&B brand development, identity and interior design. On behalf of Promontorio in Kuwait, working in numerous projects including the Fairmont Hotel in Theran and Taj Hotel in Mashhad but also the Kuwait Motor Town (F1 race track). In addition to residential preservation and Interiors and Architecture in Kuwait.
+Working within the team since 2013, and since a registered Architect at the Kuwait Engineers Society and Kuwait Municipality. Majoring in Architecture and minoring in fine arts with a concentration in Graphics and Architectural Photography. With an extensive portfolio  in the MENA region and UK in F&B creative direction, brand development  and interior architecture. On behalf of Promontorio in Kuwait, working in numerous projects including the Fairmont Hotel in Teheran and Taj Hotel in Mashhad, Kuwait Motor Town Competition. Sarah has also participated in  SENAC School of Hospitality competition, Sahara Equestrian and Entrance Design. In addition to residential preservation of Architecture in Kuwait. 
 
 
 ## Filipa Alameda, 
@@ -46,12 +46,13 @@ Working within the team since 2013, and since a registered Architect at the Kuwa
 	Achitect, Project Director
 	M.Arch from Lusiada University of Lisbon, Portugal.
 
-Working within the team since 2007, Filipa experienced diferent roles through time and was involved in most of the projects developed in Portugal and aborad since then. Aside from the role of architect, as Quantity Surveyor she was involved in the stages of design and construction for the Sundy Praia Lodge, a Beach Resort in São Tomé e Principe with tented-villas built as wood-paneled huts selected by the National Geographic for the ‘unique lodges of the world’.
+Working within the team since 2007, Filipa experienced diverse roles throughout her practice and was involved in most of the projects developed in Portugal and aboard . Aside from the role of architect, and Quantity Surveyor she was involved in the stages of design and construction for the Sundy Praia Lodge, a Beach Resort in São Tomé e Principe with tented-villas built as wood-paneled huts selected by the National Geographic for the ‘unique lodges of the world’.
 
 
 ## Sara Saragossa , MsArch
 
 	Achitect, Project Director  
+	MArch University of Lisbon
 
 Master in urban and building preservation by Universidade de Lisboa, Faculdade de Arquitectura, Lisbon, Portugal. In 2018, Sara received the Mateus Fernandes Architecture Prize in Portugal.  
 Since 2012, she was responsible for projects in Kuwait, Iran, Qatar and Saudi Arabia, specially related to Hospitality and F&B. In 2016, she was Assistant Professor at Kuwait University, College of Architecture. Sara has a large experience in interior design for renown brands as Fairmont and Oberoi hotels.
@@ -59,9 +60,14 @@ Since 2012, she was responsible for projects in Kuwait, Iran, Qatar and Saudi Ar
 
 ## Nasrin Samavi 
 
-	Architect, Cultural Planner  
+	Architect, Cultural Planner 
+	BArch Tehran University  
 
-BArch from Tehran University, has large experience in Museum content development working with the team since 2016. She was project director for Iran Mall projects, the hotel, Art gallery and Auction house and project architect for Mashhad Mall retail galleries, hotel and SPA. Recently she was responsible for the program design at the Abu Dhabi Natural History Museum outdoor.
+Working with Proem Architects since 2016, Nasrin has extensive experience in Museum content development. She was project director for Iran Mall projects, the hotel, Art gallery and Auction house and project architect for Mashhad Mall retail galleries, hotel and SPA. Nasrin has also been responsible for program design within Aby Dhabi Natural History Museum outdoor spaces and is currently coordinating large urban planning and landscaping projects. 
+
+## Yara 
+
+	Architect  
 
 ## Basma Shishtar
 
