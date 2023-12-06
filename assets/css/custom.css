@@ -1,8 +1,15 @@
 
 /* Header Section */
 
-    p {
+  html {
+    scroll-behavior: smooth;
+  }
+
+
+    p, div.language-plaintext {
         font-size: 14px;
+        font-weight: 500;
+
     }
     a {
         color: #a94e36;
@@ -21,7 +28,6 @@
     }
 /*        padding-top: 15px;*/
 
-        .project-image-header, {  font-size: 16px; }
 
     .menu p {
         margin: 0;
@@ -35,13 +41,13 @@
     .menu a:hover, .menu p:hover, .menu p.active {
         text-decoration: none;
         color: #a94e36;
-        font-weight: 100;
+        font-weight: bolder;
     }
 
 /* Body Section */
 
     body {
-        font-family: 'Avenir Medium', sans-serif;
+        font-family: 'Avenir', sans-serif;
         color: #a0a0a0;
         background-color: #FFFFFF;
     }
@@ -50,10 +56,17 @@
         max-width: 1440px;
     }
 
-    p.project-image-header {
-        text-align: center;
-    }
+    h3.project-image-header, h3 {
+        font-size: 16px;
+        font-weight: bolder;
 
+    }
+    h3.project-image-header {
+        text-align: center;
+
+        margin-left: auto !important; 
+        margin-right: auto !important; 
+    }
     .project-image {
     /*    width: 100%;*/
         height: 420px; 
@@ -62,14 +75,13 @@
         background-repeat: no-repeat;
     }
 
-.pm-container p {
+.pm-container h3.project-image-header {
     color: white;
     margin-left: 0px !important;
     margin-right: 0px !important;
-    font-size: 1.2rem;
 
 }
-.pm-container:hover p {
+.pm-container:hover h3.project-image-header, h3 {
     display: block;
     color: black;
     text-decoration: none;
@@ -134,7 +146,7 @@
 
 /* Font Awesome icon size adjustment (optional) */
 
-    i.fa-instagram, .fa-phone, .fa-envelope, .fa-map-marker-alt {
+    i.fa-instagram, .fa-phone, .fa-envelope, .fa-map-marker-alt, .fa-facebook {
         font-size: 24px;
         color: #a94e36; /* Scarlet red color */
         margin-left: 15px ;

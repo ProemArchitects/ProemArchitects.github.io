@@ -28,7 +28,7 @@ submenu: project
 
 ![Fountain Square](/works/senac-school-of-hospitality/12.jpg)
 
-# SENAC School of Hospitality
+### SENAC School of Hospitality
 
 	
 	Hipercentro, Belo Horizonte 

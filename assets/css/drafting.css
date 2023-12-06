@@ -11,8 +11,9 @@
     @media (min-width: 768px) {  
         .project-image { height: 420px !important; }
         .menu p, .header, {  font-size: 1rem !important;  }
-        .project-image-header, {  font-size: 1rem !important;  }
+        .project-image-header, h3  {  font-size: 1rem !important;  }
         .header:before {right: -30px}
+        .logo {  max-width: 220px;  }
 
     }
 
@@ -20,9 +21,9 @@
     /* Styles mobile screens ( ) */
     @media ( min-width: 520px ) and (max-width: 768px) {  
         .menu p, .header {  font-size: 1rem !important;  }
-        .project-image-header, {  font-size: 1rem !important;  }
+        .project-image-header, h3 {  font-size: 1rem !important;  }
         .header:before {right: -25px}
-        .logo {  max-width: 235px;  }
+        .logo {  max-width: 140px;  }
         .project-image { height: 380px !important; }
 
 
@@ -30,9 +31,9 @@
     /* Styles mobile screens ( ) */
     @media ( min-width: 400px ) and (max-width: 520px) {  
         .menu p, .header {  font-size: 0.8rem !important;  }
-        .project-image-header, {  font-size: 0.8rem !important;  }
+        .project-image-header, h3  {  font-size: 0.8rem !important;  }
         .header:before {right: -20px}
-        .logo {  max-width: 150px; }
+        .logo {  max-width: 100px; }
         .project-image { height: 280px !important; }
 
 
@@ -40,17 +41,15 @@
 
     @media (max-width: 400px) {  
         .menu p, .header {  font-size: 0.6rem !important;  }
-        .project-image-header, {  font-size: 0.6rem !important;  }
+        .project-image-header, h3  {  font-size: 0.6rem !important;  }
         .header:before {right: -15px}
-        .logo {  max-width: 120px; }
+        .logo {  max-width: 80px; }
         .project-image { height: 230px !important; }
 
         .content-start p img { max-height: 320px; }
 
     }
 /* ---  */
-
-
 
 .content-start p,  .content-start h1, .content-start h2, .content-start h3, .content-start div.language-plaintext  {
 

@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proem Architectural Firm - {{ page.title }}</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/fonts.css">
     <link rel="stylesheet" href="/assets/css/custom.css">
     <link rel="stylesheet" href="/assets/css/drafting.css">
     <link rel="stylesheet" href="/assets/css/circle.css">
@@ -28,13 +29,23 @@
     <div id="navigation-content">
         <div  class="container-fluid px-5">
 
-
-
             <div class="row px-md-5 px-lg-5 py-5 ">
-                <div class="col-6">
+                <div class="col-4 ">
                     <a href="/"><img src="/img/proem_logo.png" alt="Proem Logo" class="img-fluid logo"> </a>
                 </div>
-                <div class="col-6 text-right menu">
+
+                <div class="col-4" style="text-align: center;">
+                    {% if page.submenu == "project" %} 
+
+                    <a href="#scr-to-here">
+                    <h3> {{ page.title }} </h3>
+                    </a>
+
+                    {% else %}
+                    {% endif %}
+                </div>
+
+                <div class="col-4 text-right menu">
 
 
                 	{% if page.title == "Practice" %} 
@@ -61,11 +72,6 @@
                         <a href="/"><p >PROJECTS</p> </a>
                     {% endif %}
 
-<!--                     {% if page.submenu == "project" %} 
-                        <h1 class="header"> {{ page.title }} </h1>
-                    {% else %}  -->
-                        <!--  -->
-                    <!-- {% endif %} -->
 
 
                 </div>
@@ -85,17 +91,20 @@
 </div>
 
     <!-- Footer Copyright Bar-->
-    <div class="container-fluid px-md-5 py-md-5 px-lg-5 py-lg-5">
-        <div class="row my-4">
+     <div  class="container-fluid px-5">
+        <div class="row px-md-5 px-lg-5 py-5 ">
             <div class="col-6">
                     <p class="desktop-text">© 2023 Proem Architects - All Rights Reserved</p>
                     <p class="mobile-text">© 2023 Proem Architects</p>
             </div>
+
+
             <div class="col-6 text-right menu">
-              <a href="google_map_link_here" target="_blank"><i class="fas fa-map-marker-alt"></i></a>
-              <a href="tel:phone_number_here"><i class="fas fa-phone"></i></a>
-              <a href="mailto:email_address_here"><i class="far fa-envelope"></i></a>
-              <a href="instagram_link_here" target="_blank"><i class="fab fa-instagram"></i></a>
+              <a href="https://maps.app.goo.gl/U2QtSSMPsHzLUc4Y8" target="_blank"><i class="fas fa-map-marker-alt"></i></a>
+              <!-- <a href="tel:phone_number_here"><i class="fas fa-phone"></i></a> -->
+              <a href="mailto:info@proemarchitects.com"><i class="fas fa-envelope"></i></a>
+              <a href="https://www.facebook.com/profile.php?id=100094586112317&mibextid=LQQJ4d/" target="_blank"><i class="fab fa-facebook"></i></a>
+              <a href="https://www.instagram.com/proem.architects/" target="_blank"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>

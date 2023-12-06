@@ -1,0 +1,176 @@
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('../fonts/Avenir-Medium/Avenir-Medium.woff2') format('woff2'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.woff') format('woff'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.ttf') format('truetype'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.svg#Avenir-Medium') format('svg');
+  font-weight: 300; /* Light */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('../fonts/Avenir-Medium/Avenir-Medium.woff2') format('woff2'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.woff') format('woff'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.ttf') format('truetype'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.svg#Avenir-Medium') format('svg');
+  font-weight: 500; /* Regular */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('../fonts/Avenir-Medium/Avenir-Medium.woff2') format('woff2'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.woff') format('woff'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.ttf') format('truetype'),
+       url('../fonts/Avenir-Medium/Avenir-Medium.svg#Avenir-Medium') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Avenir', sans-serif;
+}
+
+
+/*
+
+
+@font-face {
+    font-family: 'Avenir LT Pro 65';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-BlackOblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BlackOblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BlackOblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BlackOblique.svg#AvenirLTPro-BlackOblique') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 65';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Black.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Black.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Black.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Black.svg#AvenirLTPro-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 65';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-MediumOblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-MediumOblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-MediumOblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-MediumOblique.svg#AvenirLTPro-MediumOblique') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 55 Roman';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Heavy.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Heavy.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Heavy.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Heavy.svg#AvenirLTPro-Heavy') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 55 Roman';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-HeavyOblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-HeavyOblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-HeavyOblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-HeavyOblique.svg#AvenirLTPro-HeavyOblique') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 35';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-LightOblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-LightOblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-LightOblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-LightOblique.svg#AvenirLTPro-LightOblique') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Light.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Light.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Light.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Light.svg#AvenirLTPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 55 Roman';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Oblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Oblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Oblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Oblique.svg#AvenirLTPro-Oblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Roman.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Roman.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Roman.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Roman.svg#AvenirLTPro-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Medium.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Medium.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Medium.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Medium.svg#AvenirLTPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro 45 Book';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-BookOblique.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BookOblique.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BookOblique.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-BookOblique.svg#AvenirLTPro-BookOblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir LT Pro';
+    src: url('../fonts/AvenirLTPro/AvenirLTPro-Book.woff2') format('woff2'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Book.woff') format('woff'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Book.ttf') format('truetype'),
+        url('../fonts/AvenirLTPro/AvenirLTPro-Book.svg#AvenirLTPro-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+*/
