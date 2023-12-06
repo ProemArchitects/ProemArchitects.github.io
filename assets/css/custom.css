@@ -39,13 +39,13 @@
         line-height: 1.5;
         color: #a0a0a0; /* Gray color */
         cursor: pointer;
-        font-weight: bolder;
+/*        font-weight: bolder;*/
     }
 
     .menu a:hover, .menu p:hover, .menu p.active {
         text-decoration: none;
         color: #a94e36;
-        font-weight: bolder;
+/*        font-weight: bolder;*/
     }
 
 /* Body Section */
@@ -62,7 +62,7 @@
 
     h3.project-image-header, h3 {
         font-size: 16px;
-        font-weight: bolder;
+/*        font-weight: bolder;*/
 
     }
     h3.project-image-header {
