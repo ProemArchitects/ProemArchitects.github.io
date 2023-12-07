@@ -11,9 +11,11 @@
             "id": "2c1148c4fa9fb578",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "works/querteira-cultural-park/02.jpg"
+                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "works/querteira-cultural-park/02.jpg",
+                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "works/querteira-cultural-park/02.jpg",
+                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "works/querteira-cultural-park/02.jpg"
+                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md"
               }
             }
           }
@@ -145,19 +147,26 @@
   },
   "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
+    "works/Iran_Auction.md",
+    "works/Iran_Auction Room and Gallery/Iran_Auction Room and Gallery.md",
+    "works/Iran_Auction Room and Gallery/01.jpg",
+    "works/Iran_Auction Room and Gallery/02.jpg",
+    "works/Iran_Auction Room and Gallery/fountain-square.md",
+    "works/Iran_Auction Room and Gallery/Iran_Auction Room and Gallery",
     "works/Golpilheira Plaza/golpilheira_plaza.md",
-    "works/Golpilheira Plaza/five_two_00007.jpg",
-    "works/Golpilheira Plaza/five_two_00006.jpg",
-    "works/Golpilheira Plaza/five_two_00005.jpg",
-    "works/Golpilheira Plaza/five_two_00004.jpg",
-    "works/Golpilheira Plaza/five_two_00003.jpg",
-    "works/Golpilheira Plaza/five_two_00002.jpg",
-    "works/Golpilheira Plaza/five_two_00001.jpg",
-    "works/Golpilheira Plaza/five_one_00024.jpg",
-    "works/Golpilheira Plaza/five_one_00023.jpg",
-    "works/Golpilheira Plaza/five_one_00022.jpg",
-    "works/Golpilheira Plaza",
+    "works/Iran_Auction Room and Gallery/17.jpg",
+    "works/Iran_Auction Room and Gallery/16.jpg",
+    "works/Iran_Auction Room and Gallery/15.jpg",
+    "works/Iran_Auction Room and Gallery/14.jpg",
+    "works/Iran_Auction Room and Gallery/13.jpg",
+    "works/Iran_Auction Room and Gallery/12.jpg",
+    "works/Iran_Auction Room and Gallery/11.jpg",
+    "works/Iran_Auction Room and Gallery/10.jpg",
+    "works/fountain-square/fountain-square.md",
     "works/B-Villas- Yarmouk/b_villas.md",
+    "practice/team.md",
+    "practice.md",
+    "works/Golpilheira Plaza",
     "works/B-Villas- Yarmouk",
     "works/B-Villas/b_villas.md",
     "works/B-Villas",
@@ -173,7 +182,6 @@
     "works/N125A22_House/N125A22-House.md",
     "works/N125A22_House",
     "works/EN House/N125A22-House.md",
-    "works/EN House",
     "works/Murouj_extenstion/murouj_extension.md",
     "works/senac-school-of-hospitality/senac_school_of_hospitality.md",
     "works/twelve/senac_school_of_hospitality.md",
@@ -183,13 +191,6 @@
     "Title.md",
     "works/Iran_Piano Tea Room /fountain-square.md",
     "cafe1_cam1_Grd.jpg.md",
-    "works/Iran_Hotel Cafe/fountain-square.md",
-    "works/Iran_Auction Room and Gallery/fountain-square.md",
-    "works/alotaiba-museum/alotaiba-museum.md",
-    "works/alotaiba-museum.md",
-    "works/senac-school-of-hospitality.md",
-    "works/01_Sahara Equestrian Club/sahara_equestrain_center.md",
-    "works/querteira-cultural-park.md",
-    "works/two/thessaloniki-international-fair.md"
+    "works/Iran_Hotel Cafe/fountain-square.md"
   ]
 }
