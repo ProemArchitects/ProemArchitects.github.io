@@ -4,13 +4,17 @@ title: Quinta das Garridas
 submenu: project
 ---
 
+![Quinta das Garridas](/works/quinta-das-garridas/01.jpg)
+
+![Quinta das Garridas](/works/quinta-das-garridas/02.jpg)
+
+![Quinta das Garridas](/works/quinta-das-garridas/03.jpg)
 
 <br id="scr-to-here" />
 
 ### Quinta das Garridas
 
 	Quinta das Garridas, Lisbon
-
 
 Our competition entry for an Intergenerational Center in Quinta das Garridas, Lisbon.
 

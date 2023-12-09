@@ -4,6 +4,17 @@ title: SENAC School of Hospitality
 submenu: project
 ---
 
+![Fountain Square](/works/senac-school-of-hospitality/01.jpg)
+
+![Fountain Square](/works/senac-school-of-hospitality/02.jpg)
+
+![Fountain Square](/works/senac-school-of-hospitality/03.jpg)
+
+![Fountain Square](/works/senac-school-of-hospitality/04.jpg)
+
+![Fountain Square](/works/senac-school-of-hospitality/05.jpg)
+
+
 <br id="scr-to-here" />
 
 ### SENAC School of Hospitality

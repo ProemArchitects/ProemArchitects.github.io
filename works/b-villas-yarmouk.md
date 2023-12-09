@@ -4,17 +4,17 @@ title: B- Villa Yarmouk
 submenu: project
 ---
 
-![Fountain Square](/works/b-villas-yarmouk.md/01.jpg)
+![Fountain Square](/works/b-villas-yarmouk/01.jpg)
 
-![Fountain Square](/works/b-villas-yarmouk.md/02.jpg)
+![Fountain Square](/works/b-villas-yarmouk/02.jpg)
 
-![Fountain Square](/works/b-villas-yarmouk.md/03.jpg)
+![Fountain Square](/works/b-villas-yarmouk/03.jpg)
 
-![Fountain Square](/works/b-villas-yarmouk.md/04.jpg)
+![Fountain Square](/works/b-villas-yarmouk/04.jpg)
 
-![Fountain Square](/works/b-villas-yarmouk.md/05.jpg)
+![Fountain Square](/works/b-villas-yarmouk/05.jpg)
 
-![Fountain Square](/works/b-villas-yarmouk.md/06.jpg)
+![Fountain Square](/works/b-villas-yarmouk/06.jpg)
 
 <br id="scr-to-here" />
 

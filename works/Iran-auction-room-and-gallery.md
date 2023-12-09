@@ -7,4 +7,4 @@ submenu: project
 
 <br id="scr-to-here" />
 
-### Iran Auction Room and GAllery
+### Iran Auction Room and Gallery
