@@ -1,9 +1,17 @@
-Le Berkeley
-Paris,France.
+---
+layout: default
+title: Le Berkeley
+submenu: project
+---
 
-2018
 
-Competition Entry
+<br id="scr-to-here" />
+
+### Le Berkeley
+
+	Paris,France.
+	2018, Competition Entry
+
 
 Le Berkeley in Paris, France, epitomizes the evolving landscape of architectural and interior design collaboration in the modern era.
 

@@ -1,4 +1,13 @@
-Murouj Extension
+---
+layout: default
+title: Murouj Extension
+submenu: project
+---
+
+
+<br id="scr-to-here" />
+
+### Murouj Extension
 
 Our architectural extension, carefully integrated with the golf course at Sahara and horse racing track, Murouj continues to captivate visitors since its completion in 2018.
 
@@ -7,4 +16,4 @@ The Challenge: designing with a language that complements existing restaurants, 
 The Carefully planned entrances manage the flow of guests and service employees, ensuring harmony for all users while offering a safe environment to enjoy horse races while families indulge in the f&b facilities onlooking the track.
 #architecture #architecturephotography
 
-Photography by: @ngphoto.com.pt
+Photography by: [@ngphoto.com.pt](https://www.instagram.com/ngphoto.com.pt)
