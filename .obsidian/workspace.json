@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
+                "file": "works/iran-hotel-cafe.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
+                "file": "works/iran-hotel-cafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
+                "file": "works/iran-hotel-cafe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md"
+                "file": "works/iran-hotel-cafe.md"
               }
             }
           }
@@ -147,6 +147,21 @@
   },
   "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
+    "works/iran-hotel-landscaping.md",
+    "works/iran-piano-tea-room.md",
+    "works/le-berkeley.md",
+    "works/ms-house.md",
+    "cafe1_cam1_Grd.jpg.md",
+    "works/iran-hotel-cafe.md",
+    "works/iran-hotel-landscaping/Cam05_GRD2.jpg",
+    "works/iran-hotel-landscaping/Cam03_GRD2.jpg",
+    "works/iran-hotel-landscaping/Cam01_GRD2.jpg",
+    "works/Iran-auction-room-and-gallery.md",
+    "works/golpilheira-plaza.md",
+    "works/greece-thasoloniki.md",
+    "works/alotaiba-museum.md",
+    "works/b-villas-yarmouk.md",
+    "works/fountain-square.md",
     "works/Iran_Auction.md",
     "works/Iran_Auction Room and Gallery/Iran_Auction Room and Gallery.md",
     "works/Iran_Auction Room and Gallery/01.jpg",
@@ -159,9 +174,6 @@
     "works/Iran_Auction Room and Gallery/15.jpg",
     "works/Iran_Auction Room and Gallery/14.jpg",
     "works/Iran_Auction Room and Gallery/13.jpg",
-    "works/Iran_Auction Room and Gallery/12.jpg",
-    "works/Iran_Auction Room and Gallery/11.jpg",
-    "works/Iran_Auction Room and Gallery/10.jpg",
     "works/fountain-square/fountain-square.md",
     "works/B-Villas- Yarmouk/b_villas.md",
     "practice/team.md",
@@ -180,17 +192,6 @@
     "works/Sahara Entrance",
     "works/Murouj_extenstion/RICARDO_CAMACHO_040618_0704.textClipping",
     "works/N125A22_House/N125A22-House.md",
-    "works/N125A22_House",
-    "works/EN House/N125A22-House.md",
-    "works/Murouj_extenstion/murouj_extension.md",
-    "works/senac-school-of-hospitality/senac_school_of_hospitality.md",
-    "works/twelve/senac_school_of_hospitality.md",
-    "works/senac-school-of-hospitality/senac-school-of-hospitality.md",
-    "works/Quarteira/quinta_das_garridas.md",
-    "works/querteira-cultural-park/quinta_das_garridas.md",
-    "Title.md",
-    "works/Iran_Piano Tea Room /fountain-square.md",
-    "cafe1_cam1_Grd.jpg.md",
-    "works/Iran_Hotel Cafe/fountain-square.md"
+    "works/N125A22_House"
   ]
 }

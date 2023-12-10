@@ -1,3 +1,18 @@
+---
+layout: default
+title: Golpilheira Plaza
+submenu: project
+---
+![photo 1](works/golpilheira-plaza/five_one_00001.jpg)
+![photo 1](works/golpilheira-plaza/five_one_00002.jpg)
+![photo 1](works/golpilheira-plaza/five_one_00003.jpg)
+![photo 1](works/golpilheira-plaza/five_one_00004.jpg)
+
+
+<br id="scr-to-here" />
+
+### Golpilheira Plaza
+
 A Completed Urban Design project in Golpilheira, a village steeped in history along the Lena Valley. From the 15th-century Chapel of Senhor Bom Jesus dos Aflitos to the 1950s-built Nossa Senhora de Fátima Church, each edifice holds a special place in this close-knit community's heart. As architects, we're entrusted with preserving this heritage and enhancing public spaces.
 
 The design process thrives on the fusion of history and innovation. By repurposing existing infrastructure, like the grand staircase and surrounding walls and crafting an urban landscape that embodies the essence of Golpilheira.
