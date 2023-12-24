@@ -1,7 +1,7 @@
-Fountain Square
-Reguengo, Portugal
+##Urban Planning Competition Entry
+##Civic
+##Reguengo, Portugal 2018
 
-Competition Entry 2018
 
 In the backdrop of the European Year of Cultural Heritage, our design for the revitalized Fountain Plaza embraces the opportunity to restore a cherished space while honoring the interplay between past and present. The vision to transform the Largo da Praça da Fonte transcends generations, uniting the aspirations of long-standing residents and newcomers, weaving a tapestry that echoes the promises of those who once departed Reguengo with dreams of return.
 

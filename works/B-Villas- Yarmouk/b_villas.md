@@ -1,7 +1,6 @@
-B- Villas
-Residential Project
-
-Kuwait 2020
+##Residential - Unrealized 
+##Private 
+##Kuwait 2020
 
 Reimagining the contemporary architectural landscape, we delve into the realm of a local architectural language with our latest project in Kuwait—a seamless connection between two stunning villas.
 
