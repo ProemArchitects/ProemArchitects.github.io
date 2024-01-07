@@ -11,12 +11,8 @@
             "id": "2c1148c4fa9fb578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "works/Iran_Auction Room and Gallery/Iran_Auction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,50 +139,51 @@
   },
   "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
-    "works/alotaiba-museum/alotaiba-museum.md",
-    "works/alotaiba-museum/Cam4_OptB_Grd.jpg",
-    "works/Iran_Auction Room and Gallery/Iran_Auction.md",
-    "works/Iran_Auction Room and Gallery/01.jpg",
-    "works/Intergrational Center /066.jpg",
-    "works/Intergrational Center /07.jpg",
-    "works/Intergrational Center /06.jpg",
-    "works/Intergrational Center /05.jpg",
-    "works/Intergrational Center /04.pdf",
-    "works/Greece_Thasoloniki/two_one_00001.jpg",
-    "works/Greece_Thasoloniki/two.jpg",
-    "works/Greece_Thasoloniki/Thessaloniki International Fairground.md",
-    "works/Greece_Thasoloniki/two_two_00002.jpg",
-    "works/Murouj_extenstion/Multiusos_Cam1_GRD2.jpg",
-    "works/fountain-square/fountain-square.md",
-    "works/Golpilheira Plaza/golpilheira_plaza.md",
-    "works/Berkely/Le Berkeley.md",
-    "works/B-Villas- Yarmouk/b_villas.md",
-    "works/01_Sahara Equestrian Club/Sahara Equestrian Center.md",
-    "works/Murouj_extenstion/murouj_extension.md",
-    "works/Intergrational Center ",
-    "works/untitled folder",
-    "works/Quarteira/04.pdf",
-    "works/Quarteira/022.pdf",
-    "works/Iran_Auction.md",
-    "works/Iran_Auction Room and Gallery/Iran_Auction Room and Gallery.md",
-    "works/Iran_Auction Room and Gallery/fountain-square.md",
-    "works/Iran_Auction Room and Gallery/Iran_Auction Room and Gallery",
-    "practice/team.md",
-    "practice.md",
-    "works/Golpilheira Plaza",
-    "works/B-Villas- Yarmouk",
-    "works/B-Villas/b_villas.md",
-    "works/B-Villas",
-    "works/ten/b_villas.md",
-    "works/ten",
-    "works/Sahara Entrance/sahara_enterance.md",
-    "works/N125A22_House/N125A22-House.md",
-    "works/EN House/N125A22-House.md",
-    "works/senac-school-of-hospitality/senac_school_of_hospitality.md",
-    "works/twelve/senac_school_of_hospitality.md",
-    "works/senac-school-of-hospitality/senac-school-of-hospitality.md",
-    "works/Quarteira/quinta_das_garridas.md",
-    "works/querteira-cultural-park/quinta_das_garridas.md",
-    "Title.md"
+    "works/18_sahara_enterance/sahara_enterance.md",
+    "works/18_sahara_enterance/nine_00005.jpg",
+    "works/18_sahara_enterance/nine_00004.jpg",
+    "works/18_sahara_enterance/nine_00003.jpg",
+    "works/18_sahara_enterance/nine_00002.jpg",
+    "works/18_sahara_enterance/nine_00001.jpg",
+    "works/18_sahara_enterance/nine.jpg",
+    "works/18_sahara_enterance/nine-hover.jpg",
+    "works/18_sahara_enterance",
+    "works/17_senac-school-of-hospitality/senac-school-of-hospitality.md",
+    "works/17_senac-school-of-hospitality/12.jpg",
+    "works/17_senac-school-of-hospitality/11.pdf",
+    "works/17_senac-school-of-hospitality/10.jpg",
+    "works/17_senac-school-of-hospitality/09.jpg",
+    "works/17_senac-school-of-hospitality",
+    "works/16_Thasoloniki International Fairground/thessaloniki-international-fair.md",
+    "works/16_Thasoloniki International Fairground/greece-thasoloniki.md",
+    "works/16_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
+    "works/16_Thasoloniki International Fairground",
+    "works/15_Quarteira Cultural Park/querteira-cultural-park.md",
+    "works/15_Quarteira Cultural Park",
+    "works/17_sahara_enterance/sahara_enterance.md",
+    "works/17_sahara_enterance",
+    "works/15_sahara_enterance/sahara_enterance.md",
+    "works/15_sahara_enterance",
+    "works/14_Quarteira Cultural Park/querteira-cultural-park.md",
+    "works/14_Quarteira Cultural Park",
+    "works/13_M House/ms-house.md",
+    "works/13_M House",
+    "works/11_Sahara Equestrian Center/sahara-equestrain-center.md",
+    "works/11_Sahara Equestrian Center/Sahara Equestrian Center.md",
+    "works/11_Sahara Equestrian Center",
+    "works/16_senac-school-of-hospitality/senac-school-of-hospitality.md",
+    "works/15_Thasoloniki International Fairground/thessaloniki-international-fair.md",
+    "works/15_Thasoloniki International Fairground/greece-thasoloniki.md",
+    "works/15_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
+    "works/14_Integration Center/quinta-das-garridas.md",
+    "works/13_Quarteira Cultural Park/querteira-cultural-park.md",
+    "works/01_N125A22-house/N125A22-House.md",
+    "works/13_ms-house/ms-house.md",
+    "works/12_Integration Center/quinta-das-garridas.md",
+    "works/11_sahara-equestrain-center/sahara-equestrain-center.md",
+    "works/11_sahara-equestrain-center/Sahara Equestrian Center.md",
+    "works/09_Murouj-extension/murouj-extension.md",
+    "works/08_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md",
+    "works/10_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md"
   ]
 }

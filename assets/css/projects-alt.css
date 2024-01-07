@@ -1,30 +1,30 @@
 /* project backgroungs */
-	.project1 {    background-image: url('../../works/senac-school-of-hospitality/01.jpg');    }
-	.pm-container:hover .project1 {    background-image: url('../../works/senac-school-of-hospitality/02.jpg');    }
+	.senac-school-of-hospitality {    background-image: url('../../works/senac-school-of-hospitality/01.jpg');    }
+	.pm-container:hover .senac-school-of-hospitality {    background-image: url('../../works/senac-school-of-hospitality/04.jpg');    }
 
-	.project2 {    background-image: url('../../works/fountain-square/01.jpg');    }
-	.pm-container:hover .project2 {    background-image: url('../../works/fountain-square/03.png');    }
+	.fountain-square {    background-image: url('../../works/fountain-square/01.jpg');    }
+	.pm-container:hover .fountain-square {    background-image: url('../../works/fountain-square/03.png');    }
 
-	.project3 {    background-image: url('../../works/querteira-cultural-park/01.jpg');    }
-	.pm-container:hover .project3 {    background-image: url('../../works/querteira-cultural-park/six_00001.jpg');    }
+	.quinta-das-garridas {    background-image: url('../../works/quinta-das-garridas/01.jpg');    }
+	.pm-container:hover .quinta-das-garridas {    background-image: url('../../works/quinta-das-garridas/02.jpg');    }
 
-	.project4 {    background-image: url('../../works/house-yarmouk/05.jpg');    }
-	.pm-container:hover .project4 {    background-image: url('../../works/house-yarmouk/ten_00001.jpg');    }
+	.b-villas-yarmouk {    background-image: url('../../works/b-villas-yarmouk/05.jpg');    }
+	.pm-container:hover .b-villas-yarmouk {    background-image: url('../../works/b-villas-yarmouk/02.jpg');    }
 
-	.project5 {    background-image: url('../../works/alotaiba-museum/01.jpg');    }
-	.pm-container:hover .project5 {    background-image: url('../../works/alotaiba-museum/03.jpg');    }
+	.alotaiba-museum {    background-image: url('../../works/alotaiba-museum/01.jpg');    }
+	.pm-container:hover .alotaiba-museum {    background-image: url('../../works/alotaiba-museum/03.jpg');    }
 
-	.project6 {    background-image: url('../../works/alt/six-alt.png');    }
-	.pm-container:hover .project6 {    background-image: url('../../img/hover.png');    }
+	.murouj-extension {    background-image: url('../../works/murouj-extension/Multiusos_Cam1_GRD2.jpg');    }
+	.pm-container:hover .murouj-extension {    background-image: url('../../works/murouj-extension/Multiusos_Cam2_GRD2.jpg');    }
 
-	.project7 {    background-image: url('../../works/alt/seven-alt.png');    }
-	.pm-container:hover .project7 {    background-image: url('../../img/hover.png');    }
+	.N125A22-house {    background-image: url('../../works/N125A22-house/three_one_00005.jpg');    }
+	.pm-container:hover .N125A22-house {    background-image: url('../../works/N125A22-house/three_two_00005.jpg');    }
 
-	.project8 {    background-image: url('../../works/alt/eight-alt.png');    }
-	.pm-container:hover .project8 {    background-image: url('../../img/hover.png');    }
+	.sahara-equestrain-center {    background-image: url('../../works/sahara-equestrain-center/eight_00001.jpg');    }
+	.pm-container:hover .sahara-equestrain-center {    background-image: url('../../works/sahara-equestrain-center/eight_00002.jpg');    }
 
-	.project9 {    background-image: url('../../works/alt/nine-alt.png');    }
-	.pm-container:hover .project9 {    background-image: url('../../img/hover.png');    }
+	.le-berkeley {    background-image: url('../../works/le-berkeley/one_one_00001.jpg');    }
+	.pm-container:hover .le-berkeley {    background-image: url('../../works/le-berkeley/one_one_00002.jpg');    }
 
 	.project10 {    background-image: url('../../works/alt/ten-alt.png');    }
 	.pm-container:hover .project10 {    background-image: url('../../img/hover.png');    }
