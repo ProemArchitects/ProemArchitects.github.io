@@ -38,4 +38,4 @@ submenu: project
 
 
 	Tehran, Iran
-	2018, Partially realized.
+	2018, Realized.

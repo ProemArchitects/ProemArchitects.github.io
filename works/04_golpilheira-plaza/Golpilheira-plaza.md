@@ -9,8 +9,12 @@
 
 <br id="scr-to-here" />
 
+
+
 ### Golpilheira Plaza
->>>>>>> d5fffd1fd565e7b4eca74d45892c42730484bc2b:works/golpilheira-plaza.md
+
+	 Portugal 
+	2007, Urban Planning, Realized.
 
 A Completed Urban Design project in Golpilheira, a village steeped in history along the Lena Valley. From the 15th-century Chapel of Senhor Bom Jesus dos Aflitos to the 1950s-built Nossa Senhora de Fátima Church, each edifice holds a special place in this close-knit community's heart. As architects, we're entrusted with preserving this heritage and enhancing public spaces.
 

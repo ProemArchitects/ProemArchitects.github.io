@@ -1,8 +1,5 @@
-##Architecture, Urban Planning, And Landscaping
-Competition, Runner Up
-##Civic
-##Thessaloniki , Greece 2021
-
+	Thessaloniki, Greece
+	2021, Competition shortlist.
 
 Reviving Thessaloniki's Heart: Our proposal aims to breathe new life into the Thessaloniki International Fair (T.I.F.), blending history with innovation.
 

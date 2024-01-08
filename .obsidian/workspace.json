@@ -11,8 +11,12 @@
             "id": "2c1148c4fa9fb578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "works/10_Le Berkeley/Le Berkeley.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "works/10_Le Berkeley/Le Berkeley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "works/10_Le Berkeley/Le Berkeley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "works/10_Le Berkeley/Le Berkeley.md"
+              }
             }
           }
         ]
@@ -137,26 +145,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1148c4fa9fb578",
+  "active": "f2da29ddbe4229ee",
   "lastOpenFiles": [
+    "works/11_Sahara Equestrian Center/03.jpg",
+    "works/11_Sahara Equestrian Center/02.jpg",
+    "works/11_Sahara Equestrian Center/01.jpg",
+    "works/09_Murouj-extension/murouj-extension.md",
+    "works/08_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md",
+    "works/09_Murouj-extension/10.jpg",
+    "works/09_Murouj-extension/11.jpg",
+    "works/09_Murouj-extension/09.jpg",
+    "works/09_Murouj-extension/08.jpg",
+    "works/09_Murouj-extension/07.jpg",
+    "works/09_Murouj-extension/06.jpg",
+    "works/09_Murouj-extension/05.jpg",
+    "works/09_Murouj-extension/04.jpg",
+    "works/07__Contemporary Piano Room/Contemporary Piano Room.md",
+    "works/06_Hotel Cafe/Hotel Cafe.md",
+    "works/05_Hotel Entrance and Landscaping/iran-hotel-landscaping.md",
+    "works/04_golpilheira-plaza/Golpilheira-plaza.md",
+    "works/03_fountain-square/fountain-square.md",
+    "works/02_alotaiba-museum/alotaiba-museum.md",
+    "works/01_N125A22-house/N125A22-House.md",
+    "works/N125A22-house/three_one_00002.jpg.md",
+    "works/N125A22-house/three_one_00001.jpg.md",
+    "works/N125A22-house",
+    "works/16_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
+    "works/16_Thasoloniki International Fairground/thessaloniki-international-fair.md",
     "works/18_sahara_enterance/sahara_enterance.md",
-    "works/18_sahara_enterance/nine_00005.jpg",
-    "works/18_sahara_enterance/nine_00004.jpg",
-    "works/18_sahara_enterance/nine_00003.jpg",
-    "works/18_sahara_enterance/nine_00002.jpg",
-    "works/18_sahara_enterance/nine_00001.jpg",
-    "works/18_sahara_enterance/nine.jpg",
-    "works/18_sahara_enterance/nine-hover.jpg",
     "works/18_sahara_enterance",
     "works/17_senac-school-of-hospitality/senac-school-of-hospitality.md",
-    "works/17_senac-school-of-hospitality/12.jpg",
     "works/17_senac-school-of-hospitality/11.pdf",
-    "works/17_senac-school-of-hospitality/10.jpg",
-    "works/17_senac-school-of-hospitality/09.jpg",
     "works/17_senac-school-of-hospitality",
-    "works/16_Thasoloniki International Fairground/thessaloniki-international-fair.md",
     "works/16_Thasoloniki International Fairground/greece-thasoloniki.md",
-    "works/16_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
     "works/16_Thasoloniki International Fairground",
     "works/15_Quarteira Cultural Park/querteira-cultural-park.md",
     "works/15_Quarteira Cultural Park",
@@ -170,20 +191,7 @@
     "works/13_M House",
     "works/11_Sahara Equestrian Center/sahara-equestrain-center.md",
     "works/11_Sahara Equestrian Center/Sahara Equestrian Center.md",
-    "works/11_Sahara Equestrian Center",
     "works/16_senac-school-of-hospitality/senac-school-of-hospitality.md",
-    "works/15_Thasoloniki International Fairground/thessaloniki-international-fair.md",
-    "works/15_Thasoloniki International Fairground/greece-thasoloniki.md",
-    "works/15_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
-    "works/14_Integration Center/quinta-das-garridas.md",
-    "works/13_Quarteira Cultural Park/querteira-cultural-park.md",
-    "works/01_N125A22-house/N125A22-House.md",
-    "works/13_ms-house/ms-house.md",
-    "works/12_Integration Center/quinta-das-garridas.md",
-    "works/11_sahara-equestrain-center/sahara-equestrain-center.md",
-    "works/11_sahara-equestrain-center/Sahara Equestrian Center.md",
-    "works/09_Murouj-extension/murouj-extension.md",
-    "works/08_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md",
-    "works/10_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md"
+    "works/15_Thasoloniki International Fairground/thessaloniki-international-fair.md"
   ]
 }

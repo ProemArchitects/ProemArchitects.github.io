@@ -24,7 +24,7 @@ submenu: project
 ### Murouj Extension
 
 	Kuwait
-	2016, Architecture and Planning 
+	2016, Architecture and Planning, Realized.
 
 
 Our architectural extension, carefully integrated with the golf course at Sahara and horse racing track, Murouj continues to captivate visitors since its completion in 2018.

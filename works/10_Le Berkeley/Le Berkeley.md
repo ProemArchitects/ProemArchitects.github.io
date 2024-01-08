@@ -14,7 +14,7 @@
 ### Le Berkeley
 
 	Paris,France.
-	2018, Competition Entry
+	2018, Competition Entry, Runner Up. 
 
 
 Le Berkeley in Paris, France, epitomizes the evolving landscape of architectural and interior design collaboration in the modern era.
