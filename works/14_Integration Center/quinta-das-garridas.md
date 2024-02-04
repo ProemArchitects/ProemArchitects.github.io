@@ -12,7 +12,7 @@ submenu: project
 
 <br id="scr-to-here" />
 
-### Quinta das Garridas
+Intergenerational Center at Quinta das Garridas
 
 	Lisbon, Portugal.
 	2021, Planning

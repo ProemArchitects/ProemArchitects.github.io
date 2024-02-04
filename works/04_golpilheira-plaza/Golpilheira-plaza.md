@@ -1,5 +1,5 @@
 	Golpilheira, Portugal
-	2018, Competition Entry.
+	2018, Urban Planning, Competition Entry.
 ---
 ![photo 1](works/golpilheira-plaza/five_one_00001.jpg)
 ![photo 1](works/golpilheira-plaza/five_one_00002.jpg)

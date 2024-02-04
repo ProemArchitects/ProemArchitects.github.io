@@ -7,7 +7,7 @@ submenu: project
 ### Al-Otaiba Museum 
 
 	Abu Dhabi, UAE.
-	2017, Unrealized.
+	2017, Interior Design, Unrealized.
 
 In collaboration with Avesta France, our team designed an exhibition standing as a tribute to the remarkable legacy of Dr. Mana Alotaiba, a distinguished individual from the UAE.  Embracing a minimalistic ethos, our design seamlessly integrates with the architectural vision of X Architects in Dubai. The core principle guiding our project is functionality, crafting an exhibition space that is both visually compelling and purposeful.
 
