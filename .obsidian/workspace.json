@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice/team.md",
+                "file": "practice/publications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/team.md",
+                "file": "practice/publications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/team.md",
+                "file": "practice/publications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/team.md"
+                "file": "practice/publications.md"
               }
             }
           }
@@ -145,53 +145,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1148c4fa9fb578",
+  "active": "f2da29ddbe4229ee",
   "lastOpenFiles": [
-    "practice/publications.md",
-    "practice.md",
-    "works/01_N125A22-house/N125A22-House.md",
+    "_site/works/querteira-cultural-park.html",
+    "_site/works/querteira-cultural-park.md",
+    "_site/works/09_b-villas-yarmouk/06-min.jpg",
+    "_site/works/09_b-villas-yarmouk/05-min.jpg",
+    "_site/works/09_b-villas-yarmouk/04-min.jpg",
+    "_site/works/09_b-villas-yarmouk/03-min.jpg",
+    "_site/works/09_b-villas-yarmouk/02-min.jpg",
+    "_site/works/09_b-villas-yarmouk/01-min.jpg",
+    "_site/works/09_b-villas-yarmouk",
+    "works/09_b-villas-yarmouk/06-min.jpg",
+    "works/09_b-villas-yarmouk/05-min.jpg",
+    "works/09_b-villas-yarmouk/04-min.jpg",
+    "works/09_b-villas-yarmouk/03-min.jpg",
+    "works/09_b-villas-yarmouk",
+    "_site/works/13_thessaloniki-international-fairground",
+    "works/13_thessaloniki-international-fairground",
+    "_site/works/thessaloniki-international-fairground.html",
+    "_site/works/10_quinta-das-garridas",
+    "works/10_quinta-das-garridas",
+    "_site/img/Original images/10_quinta-das-garridas/corte .pdf",
+    "_site/img/Original images/10_quinta-das-garridas/04.pdf",
+    "_site/img/Original images/10_quinta-das-garridas/quinta-das-garridas.html",
+    "img/Original images/10_quinta-das-garridas/quinta-das-garridas.md",
+    "works/sahara-enterance.md",
+    "_site/works/thessaloniki-international-fairground.md",
+    "works/thessaloniki-international-fairground.md",
+    "works/senac-school-of-hospitality.md",
+    "works/querteira-cultural-park.md",
+    "works/quinta-das-garridas.md",
+    "_site/works/b-villas-yarmouk.md",
+    "works/b-villas-yarmouk.md",
+    "works/ms-house.md",
+    "works/sahara-equestrain-center.md",
+    "_site/works/le-berkeley.md",
+    "works/le-berkeley.md",
+    "works/murouj-extension.md",
+    "_site/works/golpilheira-plaza.md",
+    "works/golpilheira-plaza.md",
+    "works/fountain-square.md",
+    "works/alotaiba-museum.md",
     "works/02_alotaiba-museum/alotaiba-museum.md",
-    "works/03_fountain-square/fountain-square.md",
-    "works/04_golpilheira-plaza/Golpilheira-plaza.md",
-    "works/09_Murouj-extension/murouj-extension.md",
-    "works/11_Sahara Equestrian Center/sahara-equestrain-center.md",
-    "works/13_M House/ms-house.md",
-    "works/14_B_Villas/b-villas-yarmouk.md",
-    "works/14_Integration Center/MONTADO_01.jpg",
-    "works/14_Integration Center/garridas_3i.jpg",
-    "works/14_Integration Center/garridas_4f.jpg",
-    "works/14_Integration Center/quinta-das-garridas.md",
-    "works/16_Thasoloniki International Fairground/View_of_Thessaloniki_International_Exhibition_Centre-image-by-Dimitris-Vetsikas.jpeg",
-    "works/16_Thasoloniki International Fairground/greece-thasoloniki.md",
-    "works/16_Thasoloniki International Fairground/Thessaloniki International Fairground.md",
-    "works/17_senac-school-of-hospitality/senac-school-of-hospitality.md",
-    "works/18_sahara_enterance/sahara_enterance.md",
-    "cafe1_cam1_Grd.jpg.md",
-    "works/11_Sahara Equestrian Center/Sahara Equestrian Center.md",
-    "works/11_Sahara Equestrian Center/01.jpg",
-    "works/10_Le Berkeley/Le Berkeley.md",
-    "works/11_Sahara Equestrian Center/03.jpg",
-    "works/09_Murouj-extension/11.jpg",
-    "works/09_Murouj-extension/01.jpg",
-    "works/05_Hotel Entrance and Landscaping/iran-hotel-landscaping.md",
-    "works/N125A22-house/three_one_00001.jpg.md",
-    "works/11_Sahara Equestrian Center/02.jpg",
-    "works/08_Al-Ansari Gallery and Auction Hall/Al-Ansari Gallery and Auction Hall.md",
-    "works/09_Murouj-extension/10.jpg",
-    "works/07__Contemporary Piano Room/Contemporary Piano Room.md",
-    "works/06_Hotel Cafe/Hotel Cafe.md",
-    "works/N125A22-house/three_one_00002.jpg.md",
-    "works/N125A22-house",
-    "works/16_Thasoloniki International Fairground/thessaloniki-international-fair.md",
-    "works/18_sahara_enterance",
-    "works/17_senac-school-of-hospitality/11.pdf",
-    "works/17_senac-school-of-hospitality",
-    "works/16_Thasoloniki International Fairground",
-    "works/15_Quarteira Cultural Park/querteira-cultural-park.md",
-    "works/15_Quarteira Cultural Park",
-    "works/17_sahara_enterance",
-    "works/15_sahara_enterance",
-    "works/14_Quarteira Cultural Park",
-    "works/13_M House"
+    "works/04_golpilheira-plaza/alotaiba-museum.md",
+    "_site/img/Original images/13_thasoloniki-international-fairground/thessaloniki-international-fairground.md",
+    "_site/img/Original images/09_b-villas/b-villas-yarmouk.md",
+    "_site/img/Original images/06_le-berkeley/le-berkeley.md",
+    "_site/img/Original images/04_golpilheira-plaza/golpilheira-plaza.md"
   ]
 }
