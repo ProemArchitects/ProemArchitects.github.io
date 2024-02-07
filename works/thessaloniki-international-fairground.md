@@ -1,3 +1,15 @@
+---
+layout: default
+title: Thessaloniki International Fairground
+submenu: project
+---
+
+![Fountain Square](/works/13_thessaloniki-international-fairground/01-min.jpg)
+
+![Fountain Square](/works/13_thessaloniki-international-fairground/02-min.jpeg)
+
+### [Thessaloniki International Fairground](#navigation-content)
+
 	Thessaloniki, Greece
 	2021, Competition shortlist.
 

@@ -4,15 +4,31 @@ title: Quinta das Garridas
 submenu: project
 ---
 
-![Quinta das Garridas](/works/quinta-das-garridas/01.jpg)
+![Quinta das Garridas](/works/10_quinta-das-garridas/05-min.jpg)
 
-![Quinta das Garridas](/works/quinta-das-garridas/02.jpg)
+![Quinta das Garridas](/works/10_quinta-das-garridas/04-min.jpeg)
 
-![Quinta das Garridas](/works/quinta-das-garridas/03.jpg)
+![Quinta das Garridas](/works/10_quinta-das-garridas/06-min.jpg)
 
+![Quinta das Garridas](/works/10_quinta-das-garridas/066-min.jpg)
+
+![Quinta das Garridas](/works/10_quinta-das-garridas/07-min.jpg)
+
+<!-- 
+![Quinta das Garridas](/works/10_quinta-das-garridas/corte-min.jpeg)
+
+![Quinta das Garridas](/works/10_quinta-das-garridas/garridas_1e-min.jpg)
+
+![Quinta das Garridas](/works/10_quinta-das-garridas/garridas_3i-min.jpg)
+
+![Quinta das Garridas](/works/10_quinta-das-garridas/garridas_4f-min.jpg)
+
+![Quinta das Garridas](/works/10_quinta-das-garridas/MONTADO_01-min.jpg)
+ -->
+ 
 <br id="scr-to-here" />
 
-Intergenerational Center at Quinta das Garridas
+### [Intergenerational Center at Quinta das Garridas](#navigation-content)
 
 	Lisbon, Portugal.
 	2021, Planning

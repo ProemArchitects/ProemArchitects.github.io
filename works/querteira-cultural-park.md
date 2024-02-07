@@ -4,18 +4,19 @@ title: Querteira Cultural Park
 submenu: project
 ---
 
-![Fountain Square](/works/querteira-cultural-park/01.jpg)
+![Fountain ](/works/11_quarteira-cultural-park/01-min.jpg)
 
-![Fountain Square](/works/querteira-cultural-park/six_00001.jpg)
+![Fountain ](/works/11_quarteira-cultural-park/02-min.jpg)
 
-![Fountain Square](/works/querteira-cultural-park/02.jpg)
+![Fountain ](/works/11_quarteira-cultural-park/03-min.jpg)
 
-![Fountain Square](/works/querteira-cultural-park/03.jpg)
+![Fountain ](/works/11_quarteira-cultural-park/04-min.jpg)
 
+![Fountain ](/works/11_quarteira-cultural-park/05-min.jpg)
 
 <br id="scr-to-here" />
 
-### Querteira Cultural Park
+### [Querteira Cultural Park](#navigation-content)
 
 	Querteira, Portugal.
 	2021, Planning

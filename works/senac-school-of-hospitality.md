@@ -4,20 +4,33 @@ title: SENAC School of Hospitality
 submenu: project
 ---
 
-![Fountain Square](/works/senac-school-of-hospitality/01.jpg)
+![Fountain Square](/works/12_senac-school-of-hospitality/01-min.jpg)
 
-![Fountain Square](/works/senac-school-of-hospitality/02.jpg)
+![Fountain Square](/works/12_senac-school-of-hospitality/02-min.jpg)
 
-![Fountain Square](/works/senac-school-of-hospitality/03.jpg)
+![Fountain Square](/works/12_senac-school-of-hospitality/03-min.jpg)
 
-![Fountain Square](/works/senac-school-of-hospitality/04.jpg)
+![Fountain Square](/works/12_senac-school-of-hospitality/04-min.jpg)
 
-![Fountain Square](/works/senac-school-of-hospitality/05.jpg)
+![Fountain Square](/works/12_senac-school-of-hospitality/05-min.jpg)
 
+![Fountain Square](/works/12_senac-school-of-hospitality/06-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/07-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/08-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/09-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/10-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/11-min.jpg)
+
+![Fountain Square](/works/12_senac-school-of-hospitality/12-min.jpg)
 
 <br id="scr-to-here" />
 
-### SENAC School of Hospitality
+### [SENAC School of Hospitality](#navigation-content)
 
 	Brazil
 	2023, Architectural competition, runner up. 

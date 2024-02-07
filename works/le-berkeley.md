@@ -1,21 +1,29 @@
-
+---
+layout: default
+title: Le Berkeley
+submenu: project
 ---
 
+![Le Berkeley](/works/06_le-berkeley/01-min.jpg)
 
-![Le Berkeley](/works/le-berkeley/one_one_00001.jpg)
-![Le Berkeley](/works/le-berkeley/one_one_00002.jpg)
-![Le Berkeley](/works/le-berkeley/one_one_00003.jpg)
-![Le Berkeley](/works/le-berkeley/one_one_00004.jpg)
+![Le Berkeley](/works/06_le-berkeley/02-min.jpg)
 
+![Le Berkeley](/works/06_le-berkeley/03-min.jpg)
 
+![Le Berkeley](/works/06_le-berkeley/04-min.jpg)
+
+![Le Berkeley](/works/06_le-berkeley/05-min.jpg)
+
+![Le Berkeley](/works/06_le-berkeley/06-min.jpg)
+
+![Le Berkeley](/works/06_le-berkeley/07-min.jpg)
 
 <br id="scr-to-here" />
 
-### Le Berkeley
+### [Le Berkeley](#navigation-content)
 
-	Paris,France.
+	Paris, France.
 	2018, Competition Entry, Runner Up. 
-
 
 Le Berkeley in Paris, France, epitomizes the evolving landscape of architectural and interior design collaboration in the modern era.
 

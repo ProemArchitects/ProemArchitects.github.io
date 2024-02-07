@@ -3,29 +3,35 @@ layout: default
 title: Murouj Extension
 submenu: project
 ---
-	Kuwait
-	2021, Partially realized.
 
-![Murouj Extension](/works/murouj-extension/Multiusos_Cam1_GRD2.jpg)
+![Murouj Extension](/works/05_murouj-extension/01-min.jpg)
 
-![Murouj Extension](/works/murouj-extension/Multiusos_Cam2_GRD2.jpg)
+![Murouj Extension](/works/05_murouj-extension/02-min.jpg)
 
-![Murouj Extension](/works/murouj-extension/Multiusos_Cam2E_GRD4.jpg)
+![Murouj Extension](/works/05_murouj-extension/03-min.jpg)
 
-![Murouj Extension](/works/murouj-extension/RICARDO_CAMACHO_040618_0747.jpg)
+![Murouj Extension](/works/05_murouj-extension/04-min.jpg)
 
-![Murouj Extension](/works/murouj-extension/RICARDO_CAMACHO_040618_0756.jpg)
+![Murouj Extension](/works/05_murouj-extension/05-min.jpg)
 
-![Murouj Extension](/works/murouj-extension/RICARDO_CAMACHO_040618_0761.jpg)
+![Murouj Extension](/works/05_murouj-extension/06-min.jpg)
 
+![Murouj Extension](/works/05_murouj-extension/07-min.jpg)
+
+![Murouj Extension](/works/05_murouj-extension/08-min.jpg)
+
+![Murouj Extension](/works/05_murouj-extension/09-min.jpg)
+
+![Murouj Extension](/works/05_murouj-extension/10-min.jpg)
+
+![Murouj Extension](/works/05_murouj-extension/11-min.jpg)
 
 <br id="scr-to-here" />
 
-### Murouj Extension
+### [Murouj Extension](#navigation-content)
 
 	Kuwait
 	2016, Architecture and Planning, Realized.
-
 
 Our architectural extension, carefully integrated with the golf course at Sahara and horse racing track, Murouj continues to captivate visitors since its completion in 2018.
 
