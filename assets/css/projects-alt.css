@@ -1,40 +1,61 @@
 /* project backgroungs */
-	.senac-school-of-hospitality {    background-image: url('../../works/senac-school-of-hospitality/01.jpg');    }
-	.pm-container:hover .senac-school-of-hospitality {    background-image: url('../../works/senac-school-of-hospitality/04.jpg');    }
 
-	.fountain-square {    background-image: url('../../works/fountain-square/01.jpg');    }
-	.pm-container:hover .fountain-square {    background-image: url('../../works/fountain-square/03.png');    }
 
-	.quinta-das-garridas {    background-image: url('../../works/quinta-das-garridas/01.jpg');    }
-	.pm-container:hover .quinta-das-garridas {    background-image: url('../../works/quinta-das-garridas/02.jpg');    }
 
-	.b-villas-yarmouk {    background-image: url('../../works/b-villas-yarmouk/05.jpg');    }
-	.pm-container:hover .b-villas-yarmouk {    background-image: url('../../works/b-villas-yarmouk/02.jpg');    }
+.N125A22-house {    background-image: url('../../works/01_N125A22-house/01.jpg');    }
+.pm-container:hover .N125A22-house {    background-image: url('../../img/hover.png');    }
 
-	.alotaiba-museum {    background-image: url('../../works/alotaiba-museum/01.jpg');    }
-	.pm-container:hover .alotaiba-museum {    background-image: url('../../works/alotaiba-museum/03.jpg');    }
 
-	.murouj-extension {    background-image: url('../../works/murouj-extension/Multiusos_Cam1_GRD2.jpg');    }
-	.pm-container:hover .murouj-extension {    background-image: url('../../works/murouj-extension/Multiusos_Cam2_GRD2.jpg');    }
+.alotaiba-museum {    background-image: url('../../works/02_alotaiba-museum/01-min.jpg');    }
+.pm-container:hover .alotaiba-museum {    background-image: url('../../img/hover.png');    }
 
-	.N125A22-house {    background-image: url('../../works/N125A22-house/three_one_00005.jpg');    }
-	.pm-container:hover .N125A22-house {    background-image: url('../../works/N125A22-house/three_two_00005.jpg');    }
 
-	.sahara-equestrain-center {    background-image: url('../../works/sahara-equestrain-center/eight_00001.jpg');    }
-	.pm-container:hover .sahara-equestrain-center {    background-image: url('../../works/sahara-equestrain-center/eight_00002.jpg');    }
+.fountain-square {    background-image: url('../../works/03_fountain-square/01-min.jpg');    }
+.pm-container:hover .fountain-square {    background-image: url('../../img/hover.png');     }
 
-	.le-berkeley {    background-image: url('../../works/le-berkeley/one_one_00001.jpg');    }
-	.pm-container:hover .le-berkeley {    background-image: url('../../works/le-berkeley/one_one_00002.jpg');    }
 
-	.project10 {    background-image: url('../../works/alt/ten-alt.png');    }
-	.pm-container:hover .project10 {    background-image: url('../../img/hover.png');    }
+.golpilheira-plaza {    background-image: url('../../works/04_golpilheira-plaza/five.jpg');    }
+.pm-container:hover .golpilheira-plaza {    background-image: url('../../img/hover.png');     }
 
-	.project11 {    background-image: url('../../works/alt/eleven-alt.png');    }
-	.pm-container:hover .project11 {    background-image: url('../../img/hover.png');    }
 
-	.project12 {    background-image: url('../../works/alt/twelve-alt.png');    }
-	.pm-container:hover .project12 {    background-image: url('../../img/hover.png');    }
-	/* Header Section */
+.murouj-extension {    background-image: url('../../works/05_murouj-extension/01-min.jpg');    }
+.pm-container:hover .murouj-extension {    background-image: url('../../img/hover.png');     }
+
+
+.le-berkeley {    background-image: url('../../works/06_le-berkeley/01-min.jpg');    }
+.pm-container:hover .le-berkeley {    background-image: url('../../img/hover.png');     }
+
+
+.sahara-equestrain-center {    background-image: url('../../works/07_sahara-equestrian-center/01-min.jpg');    }
+.pm-container:hover .sahara-equestrain-center {    background-image: url('../../img/hover.png');     }
+
+
+.ms-house {    background-image: url('../../works/08_ms-house/01-min.jpg');    }
+.pm-container:hover .ms-house {    background-image: url('../../img/hover.png');     }
+
+
+.b-villas-yarmouk {    background-image: url('../../works/09_b-villas-yarmouk/01-min.jpg');    }
+.pm-container:hover .b-villas-yarmouk {    background-image: url('../../img/hover.png');     }
+
+
+.quinta-das-garridas {    background-image: url('../../works/10_quinta-das-garridas/05-min.jpg');    }
+.pm-container:hover .quinta-das-garridas {    background-image: url('../../img/hover.png');     }
+
+
+.querteira-cultural-park {    background-image: url('../../works/11_quarteira-cultural-park/02-min.jpg');    }
+.pm-container:hover .querteira-cultural-park {    background-image: url('../../img/hover.png');     }
+
+
+.senac-school-of-hospitality {    background-image: url('../../works/12_senac-school-of-hospitality/01-min.jpg');    }
+.pm-container:hover .senac-school-of-hospitality {    background-image: url('../../img/hover.png');     }
+
+
+.thessaloniki-international-fairground {    background-image: url('../../works/13_thessaloniki-international-fairground/01-min.jpg');    }
+.pm-container:hover .thessaloniki-international-fairground {    background-image: url('../../img/hover.png');     }
+
+
+.sahara-enterance {    background-image: url('../../works/14_sahara-enterance/nine_00001.jpg');    }
+.pm-container:hover .sahara-enterance {    background-image: url('../../img/hover.png');     }
 
 
 
@@ -42,18 +63,18 @@
 @media (min-width: 768px) {
 
 	/* project custom padding */
-	.project1, .project3, .project5 , .project7, .project9 {   
+	.project1, .project3, .project5, .project7, .project9, .project11, .project13, .project15 {   
 		margin-left: 9% !important;
 		margin-right: 9% !important;
 	}
 
 
-	.project2, .project4, .project6, .project8 {   
+	.project2, .project4, .project6, .project8, .project10, .project12, .project14, .project16 {   
 		margin-left: 9% !important;
 		margin-right: 9% !important;
 	}
 
-	.project1, .project3, .project5 , .project7, .project9, .project2, .project4, .project6, .project8 {   
+	.project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14 {   
 		
 		margin-top: 10%;
 		margin-bottom: 10%;
@@ -66,7 +87,7 @@
 @media (min-width: 992px) {
 
 	/* project custom padding */
-	.project1, .project4, .project7 {   
+	.project1, .project4, .project7, .project10, .project13 {   
 
 		margin-left: 9% !important;
 		margin-right: 9% !important;
@@ -74,20 +95,20 @@
 	}
 
 
-	.project2, .project5, .project8 {   
+	.project2, .project5, .project8, .project11 , .project4 {   
 
 		margin-left: 9% !important;
 		margin-right: 9% !important;
 	}
 
-	.project3, .project6, .project9 {   
+	.project3, .project6, .project9, .project12{   
 
 		margin-left: 9%% !important;
 		margin-right: 9% !important;
 	}
 
 
-	.project1, .project3, .project5 , .project7, .project9, .project2, .project4, .project6, .project8 {   
+	.project1, .project2, .project3 , .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14 {   
 		
 		margin-top: 10%;
 		margin-bottom: 10%;
@@ -98,8 +119,8 @@
 
 /* Styles for mobile screens ( ) */
 @media (max-width: 768px) {
-	.project1, .project3, .project5 , .project7, .project9, .project2, .project4, .project6, .project8 {   
-		
+
+	.project1, .project2, .project3 , .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project1, .project2, .project3, .project4 {	
 		margin-top: 5%;
 		margin-bottom: 5%;
 

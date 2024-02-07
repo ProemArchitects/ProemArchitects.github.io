@@ -8,7 +8,7 @@
 
 
     /* Styles for medium-sized screens (md) */
-    @media (min-width: 768px) {  
+    @media (min-width: 890px) {  
         .project-image { height: 420px !important; }
         .menu p, .header, {  font-size: 1rem !important;  }
         .project-image-header, h3  {  font-size: 1rem !important;  }
@@ -19,7 +19,7 @@
 
 
     /* Styles mobile screens ( ) */
-    @media ( min-width: 520px ) and (max-width: 768px) {  
+    @media ( min-width: 520px ) and (max-width: 890px) {  
         .menu p, .header {  font-size: 1rem !important;  }
         .project-image-header, h3 {  font-size: 1rem !important;  }
         .header:before {right: -25px}
