@@ -68,7 +68,7 @@ Since 2012, she was responsible for projects in Kuwait, Iran, Qatar and Saudi Ar
 
 Working with Proem Architects since 2016, Nasrin has extensive experience in Museum content development. She was project director for Iran Mall projects, the hotel, Art gallery and Auction house and project architect for Mashhad Mall retail galleries, hotel and SPA. Nasrin has also been responsible for program design within Aby Dhabi Natural History Museum outdoor spaces and is currently coordinating large urban planning and landscaping projects. 
 
-## Yara 
+### Yara 
 
 	Architect  
 

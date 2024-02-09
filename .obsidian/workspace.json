@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice/publications.md",
+                "file": "practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/publications.md",
+                "file": "practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice/publications.md",
+                "file": "practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice/publications.md"
+                "file": "practice.md"
               }
             }
           }
@@ -145,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2da29ddbe4229ee",
+  "active": "2c1148c4fa9fb578",
   "lastOpenFiles": [
+    "publications.md",
+    "practice.md",
+    "practice/publications.md",
     "works/09_Murouj-extension",
     "works/10_Le Berkeley",
     "works/11_Sahara Equestrian Center",
@@ -168,7 +171,6 @@
     "works/09_b-villas-yarmouk/05-min.jpg",
     "works/09_b-villas-yarmouk/04-min.jpg",
     "works/09_b-villas-yarmouk/03-min.jpg",
-    "works/09_b-villas-yarmouk",
     "img/Original images/10_quinta-das-garridas/quinta-das-garridas.md",
     "works/sahara-enterance.md",
     "_site/works/thessaloniki-international-fairground.md",
@@ -190,8 +192,6 @@
     "works/02_alotaiba-museum/alotaiba-museum.md",
     "works/04_golpilheira-plaza/alotaiba-museum.md",
     "_site/img/Original images/13_thasoloniki-international-fairground/thessaloniki-international-fairground.md",
-    "_site/img/Original images/09_b-villas/b-villas-yarmouk.md",
-    "_site/img/Original images/06_le-berkeley/le-berkeley.md",
-    "_site/img/Original images/04_golpilheira-plaza/golpilheira-plaza.md"
+    "_site/img/Original images/09_b-villas/b-villas-yarmouk.md"
   ]
 }

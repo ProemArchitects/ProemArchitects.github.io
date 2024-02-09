@@ -7,7 +7,9 @@ tags: architecture, architecturephotography
 
 ### Modern Architecture Kuwait  1 , 2015
 
-	Ricardo Camacho, Sara Saragoça Soares, Roberto Fabbri (Hrsg.)
+	Ricardo Camacho, 
+	Sara Saragoça Soares, 
+	Roberto Fabbri (Hrsg.)
 
 From the late 1940's at the inception of the oil exporting industry, via political independence in 1961, through to the late 1980's when Kuwait was invaded, the city-state experienced an extraordinary social and civic transformation, deeply inscribed in its built environment. The old coastal town was radically transformed through architecture and urban planning in the process of gaining wealth and autonomy. Important foreign and local architects found here the possibility to expand their professional horizons and the challenge to impose an entire city, creating important examples of Late Modern Architecture during these four decades. This publication is based on several years of multidisciplinary research, featuring a repertoire of more than 150 buildings, all fully illustrated and analyzed in order to understand the dynamics of change and innovation they represent.
 
@@ -19,7 +21,9 @@ Featured on [Archdaily](https://www.archdaily.com/910163/modern-architecture-kuw
 
 ### Essays, Arguments & Interviews on Modern Architecture Kuwait, 2016
 
-	Ricardo Camacho, Sara Saragoça Soares, Roberto Fabbri (Hrsg.)
+	Ricardo Camacho, 
+	Sara Saragoça Soares, 
+	Roberto Fabbri (Hrsg.)
 
 Published in 2016, Modern Architecture Kuwait 1949–1989 is the first systematic analysis of Kuwait’s building production. This second volume collects essays, arguments, and interviews that focus on the role of individuals and corporations in the process of perceiving, transforming, and building the modern state of Kuwait.
 
@@ -33,9 +37,11 @@ Purchase on [Niggli's](https://www.amazon.com/Essays-Arguments-Interviews-Modern
 
 ### Pan-Arab Modernism 1968-2018
 
-### The History of Architectural Practice in The Middle East
+The History of Architectural Practice in The Middle East
 
-	Ricardo Camacho, Dalal Musaed Alsayer, Sara Saragoça Soares
+	Ricardo Camacho, 
+	Dalal Musaed Alsayer, 
+	Sara Saragoça Soares
 
 Following two publications in 2016 and 2017 on Modern Architecture of Kuwait, this new publication expands on the growing interest for the building and urban practice exchange between territories throughout the Middle Eastern region which remains at the threshold of architectural theory, postcolonial critique, and visual cultures studies. This book format exposes relevant and critical material on the individual’s education and experiences as well as the architecture practice and influence in the Middle East.  
 Using Kuwait as a case study and Pan Arab Modernism as a lens, this book comes to fill two voids in the literature on Middle Eastern architecture: one is in practice and the other is in history. The current practice of architecture in Kuwait, the Gulf and the larger Middle East, is typically a-contextual and lacking any understanding of the local context. The architectural history, on the other hand, ignores the larger context of the Middle East and the influence of Pan Arabism is not configured into many analyses. Thus, this project seeks to tackle both. By providing a contextualization of the architectural history of Kuwait and bringing forgotten protagonists back into the dialogue, a nuanced reading of Pan Arab Modern architecture emerges.  
