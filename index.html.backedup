@@ -1,0 +1,109 @@
+---
+layout: default
+title: Projects
+submenu: none
+---
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/N125A22-house">
+		<div class="project-image project1 N125A22-house"></div>
+		<h3 class="project-image-header">N125A22 House</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/alotaiba-museum">
+		<div class="project-image project2 alotaiba-museum"></div>
+		<h3 class="project-image-header">Al-Otaiba Museum</h3> 
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/fountain-square">
+		<div class="project-image project3 fountain-square"></div>
+		<h3 class="project-image-header">Fountain Square</h3> 
+	</a>
+</div>
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/golpilheira-plaza">
+		<div class="project-image project4 golpilheira-plaza"></div>
+		<h3 class="project-image-header">Golpilheira, Portugal</h3> 
+	</a>
+</div>  
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a  href="/works/murouj-extension">
+		<div class="project-image project5 murouj-extension"></div>
+		<h3 class="project-image-header">Murouj Extension</h3>
+	</a>
+</div>
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/le-berkeley">
+		<div class="project-image project6 le-berkeley"></div>
+		<h3 class="project-image-header">Le Berkeley</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/sahara-equestrain-center">
+		<div class="project-image project7 sahara-equestrain-center"></div> 
+		<h3 class="project-image-header">Sahara Equestrain Center</h3>
+	</a>
+</div>
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/ms-house">
+		<div class="project-image project8 ms-house"></div>
+		<h3 class="project-image-header">MS House</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/b-villas-yarmouk">
+		<div class="project-image project9 b-villas-yarmouk"></div> 
+		<h3 class="project-image-header">B- Villa at Yarmouk</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/quinta-das-garridas">
+		<div class="project-image project10 quinta-das-garridas"></div> 
+		<h3 class="project-image-header">Quinta Das Garridas</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/querteira-cultural-park">
+		<div class="project-image project11 querteira-cultural-park"></div> 
+		<h3 class="project-image-header">Querteira Cultural Park</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/senac-school-of-hospitality">
+		<div class="project-image project12 senac-school-of-hospitality"></div>
+		<h3 class="project-image-header">SENAC School of Hospitality</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/thessaloniki-international-fairground">
+		<div class="project-image project13 thessaloniki-international-fairground"></div>
+		<h3 class="project-image-header">Thasoloniki International Fairground</h3>
+	</a>
+</div> 
+
+<div class="pm-container col-12 col-md-6 col-lg-4 ">
+	<a href="/works/sahara-enterance">
+		<div class="project-image project14 sahara-enterance"></div>
+		<h3 class="project-image-header">Sahara Enterance</h3>
+	</a>
+</div> 
+
+
+
+
+
+

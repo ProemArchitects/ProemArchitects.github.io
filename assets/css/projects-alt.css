@@ -6,6 +6,9 @@
 .pm-container:hover .N125A22-house {    background-image: url('../../img/hover.png');    }
 
 
+.home-logo {    background-image: url('/img/proem_logo.png');    }
+.pm-container:hover .home-logo {    background-image: url('/img/proem_logo.png');    }
+
 .alotaiba-museum {    background-image: url('../../works/02_alotaiba-museum/01-min.jpg');    }
 .pm-container:hover .alotaiba-museum {    background-image: url('../../img/hover.png');    }
 
